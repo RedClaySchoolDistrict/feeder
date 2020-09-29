@@ -1,0 +1,34 @@
+{
+  "splash": {
+    "splashContent": "<div><font size=\"3\"><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(65, 105, 225);\"> </span> </span> </font></div>\n\t<div align=\"center\" style=\"text-align: left;\"><font size=\"2\">This website was made for the students and families of the Red Clay Consolidated School District. Its purpose is to show students' attendance zones quickly and easily. </font></div><div align=\"center\" style=\"text-align: left;\"><span style=\"font-size: small;\"><br /></span></div><div align=\"center\" style=\"text-align: left;\"><span style=\"font-size: small;\">Data presented may contain errors or ommissions.  </span></div><div align=\"center\" style=\"text-align: left;\"><span style=\"font-size: small;\">BEFORE MAKING ANY IMPORTANT DECISIONS RELATED TO ATTENDANCE ZONES, VERIFY YOUR ATTENDANCE ZONE BY CONTACTING RED CLAY DISTRICT OFFICES.</span></div><div align=\"center\" style=\"text-align: left;\"><span style=\"font-size: small;\">To report errors, or for questions about the data or website you can contact</span></div><div align=\"center\" style=\"text-align: left;\"><span style=\"font-size: small;\"><br /></span></div><div align=\"center\" style=\"text-align: left;\"><span style=\"font-size: small;\"> David Racca, CADSR</span></div><div align=\"center\" style=\"text-align: left;\"><span style=\"font-size: small;\"> email: dracca@udel.edu</span></div><div align=\"center\" style=\"text-align: left;\"><span style=\"font-size: small;\"> phone: 302 831-1698</span></div><div align=\"center\"><p align=\"center\" class=\"MsoNormal\"><o:p></o:p></p></div>",
+    "requireConfirm": false,
+    "confirm": {
+      "text": "",
+      "color": "#ffffff",
+      "transparency": 0
+    },
+    "showOption": false,
+    "confirmEverytime": true,
+    "contentVertical": "top",
+    "size": {
+      "mode": "wh",
+      "wh": {
+        "w": 600,
+        "h": 264
+      }
+    },
+    "background": {
+      "mode": "color",
+      "image": null,
+      "type": "fill",
+      "fileName": "No%20file%20chosen",
+      "color": "#b3c9ee",
+      "transparency": 0
+    },
+    "button": {
+      "color": "#518dca",
+      "transparency": 0,
+      "text": "OK"
+    }
+  }
+}
